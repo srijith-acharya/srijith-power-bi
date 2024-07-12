@@ -25,6 +25,32 @@ Additionally, it highlights regional patterns, loan term preferences, employee t
 ![BLA-3](https://github.com/user-attachments/assets/f6ac271e-5d5f-41cd-8b8e-1b184e7eb9d2)
 
 
+## Terminologies
+
+1. Total Loan Applications: Tracks the number of loan applications over a specified period.
+
+2. Total Funded Amount: Displays the cumulative amount of funds disbursed through approved loans.
+
+3. Total Amount Received: Shows the total amount received from borrowers, indicating loan repayment status.
+
+4. Average Interest Rate: Provides the average interest rate charged across all loans, influencing profitability and borrower affordability.
+
+5. Average Debt-to-Income Ratio (DTI): Measures the average debt obligations relative to borrowers' income, assessing loan affordability and risk.
+
+6. Good Loan v Bad Loan KPI’s: Classifies loans into good and bad categories based on predefined criteria (e.g., repayment history), offering insights into loan performance and risk management.
+
+7. Monthly Trends by Issue Date (Line Chart): Illustrates loan application trends over time, facilitating seasonal or cyclical pattern identification.
+
+8. Regional Analysis by State: Breaks down loan distribution by geographic regions (states), identifying areas of high demand or risk concentration.
+
+9. Loan Term Analysis: Analyzes preferences for loan terms (e.g., short-term vs. long-term), influencing interest income and borrower retention.
+
+10. Employee Length Analysis: Examines the relationship between employee tenure and loan approval rates or customer satisfaction, reflecting workforce stability impacts.
+
+11. Loan Purpose Breakdown: Categorizes loans by purpose (e.g., home improvement, education), guiding marketing strategies and product development.
+
+12. Home Ownership Analysis: Segments loans by borrower home ownership status (e.g., owned, rented), influencing risk assessment and market segmentation strategies.
+
 
 ## Insights
 
@@ -72,31 +98,6 @@ Insight: Debt Consolidation constitute(s) the majority 46.63% of loans. Tailorin
 
 Insight: Borrowers who own homes 48.5% of loans and those who rent homes account for 51.5% of loans.
 
-
-
-1. Total Loan Applications: Tracks the number of loan applications over a specified period.
-
-2. Total Funded Amount: Displays the cumulative amount of funds disbursed through approved loans.
-
-3. Total Amount Received: Shows the total amount received from borrowers, indicating loan repayment status.
-
-4. Average Interest Rate: Provides the average interest rate charged across all loans, influencing profitability and borrower affordability.
-
-5. Average Debt-to-Income Ratio (DTI): Measures the average debt obligations relative to borrowers' income, assessing loan affordability and risk.
-
-6. Good Loan v Bad Loan KPI’s: Classifies loans into good and bad categories based on predefined criteria (e.g., repayment history), offering insights into loan performance and risk management.
-
-7. Monthly Trends by Issue Date (Line Chart): Illustrates loan application trends over time, facilitating seasonal or cyclical pattern identification.
-
-8. Regional Analysis by State: Breaks down loan distribution by geographic regions (states), identifying areas of high demand or risk concentration.
-
-9. Loan Term Analysis: Analyzes preferences for loan terms (e.g., short-term vs. long-term), influencing interest income and borrower retention.
-
-10. Employee Length Analysis: Examines the relationship between employee tenure and loan approval rates or customer satisfaction, reflecting workforce stability impacts.
-
-11. Loan Purpose Breakdown: Categorizes loans by purpose (e.g., home improvement, education), guiding marketing strategies and product development.
-
-12. Home Ownership Analysis: Segments loans by borrower home ownership status (e.g., owned, rented), influencing risk assessment and market segmentation strategies.
 
 ## Conclusion 
 The Power BI dashboard provides a comprehensive overview of the bank's loan portfolio, enabling stakeholders to make informed decisions based on real-time data insights. By leveraging KPIs and visual analytics, the dashboard enhances transparency, efficiency, and strategic planning within the loan management process. Moving forward, continuous monitoring and analysis will be essential to adapt to changing market conditions and optimize loan portfolio performance.
